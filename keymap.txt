@@ -1,6 +1,5 @@
 ; This is UniKey user-defined key mapping file, generated from UniKey (Windows)
 
-Z = Tone0
 S = Tone1
 F = Tone2
 R = Tone3
